@@ -88,6 +88,6 @@ The results demonstrate that iterative verifier-guided refinement significantly 
 
 
 **Tanav Thanjavuru**  
-MIDS Program, UC Berkeley  
+UC Berkeley  
 Email: tanav@berkeley.edu  
 LinkedIn: [linkedin.com/in/tanavt](https://www.linkedin.com/in/tanavt)
