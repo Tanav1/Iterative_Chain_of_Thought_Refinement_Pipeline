@@ -1,4 +1,4 @@
-# Iterative Chain-of-Thought Refinement: Self-Correcting Generative Reasoning Through Verifier-Guided Feedback Loop**  
+# Iterative Chain-of-Thought Refinement: Self-Correcting Generative Reasoning Through Verifier-Guided Feedback Loop
 Author: Tanav Thanjavuru (UC Berkeley)
 
 ## Overview
